@@ -1,2 +1,3 @@
 mobiles
 laptops
+desktop
